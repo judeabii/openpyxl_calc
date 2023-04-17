@@ -6,3 +6,9 @@ This project takes an input of an excel workbook with corresponding sheets conta
 The module openpyxl from pypi is used here.
 
 * Sample Input file - SampleData.xlsx
+
+# Installation
+With pip
+
+```pip install openpyxl```
+
